@@ -8,7 +8,6 @@
 ################################################################################
 # Importation de fonctions externes :
 import turtle
-#import numpy as np
 
 # Definition locale de fonctions :
 def get_final_position(fichier_instruction,fichier_univers):
