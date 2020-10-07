@@ -19,9 +19,10 @@ Veuillez ouvrir le script **get_finale_position_Xavier.py**.
 <br> Il ne vous reste plus qu'à charger le fichier instructions ainsi que celui des dimensions dans la section 'corps du programme' (en changeant le chemin du fichier)
 <br> Enfin, lancer le script et vous trouverez, dans la console, la position finale du robot.
 
-### Documents disponibles
+### Documents disponibles et réponse
 
 Un fichier instruction ainsi qu'un fichier dimension seront disponible dans ce répertoire.
+<br> La position finale du robot se trouve est **(45,84)** selon les deux fichiers txt.
 
 <br><br><br>
 <a href="https://www.linkedin.com/in/xavier-lai-85a861131/?originalSubdomain=fr"> <img src = "https://cdn.1min30.com/wp-content/uploads/2017/08/LinkedIn-logo.jpg"
